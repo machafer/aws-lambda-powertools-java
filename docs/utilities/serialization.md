@@ -9,7 +9,7 @@ This module contains a set of utilities you may use in your Lambda functions, to
 
 ### Key features
 
-* Easily deserialize the main content of an event (for example, the body of an API Gateway event)
+* xEasily deserialize the main content of an event (for example, the body of an API Gateway event)
 * 15+ built-in events (see the [list below](#built-in-events))
 
 ### Getting started
